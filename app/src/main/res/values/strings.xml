@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">kurs</string>
+    <string name="argentinianPeso">ARP</string>
+    <string name="japaneseYen">JPY</string>
+    <string name="koreanWon">KRW</string>
+    <string name="chinaYuan">CNY</string>
+
+    <string name="argentina">Argentinian\nPeso</string>
+    <string name="japan">Japanese\nYen</string>
+    <string name="korea">Korean\nWon</string>
+    <string name="china">China</string>
+
+    <string name="argentinaC">Buenos Aires</string>
+    <string name="japanC">Tokyo</string>
+    <string name="koreaC">Seoul</string>
+    <string name="chinaC">Pekin</string>
+
+    <string name="flag">flag</string>
+
+</resources>
